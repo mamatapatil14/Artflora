@@ -1,0 +1,16 @@
+.imgadhar{
+    width:100%;
+}
+.imgcert{
+    width:100%;
+    
+    
+}
+
+.verifybutton{
+    display: flex;
+    justify-content: center;
+}
+.verbtn{
+    width:20rem;
+}

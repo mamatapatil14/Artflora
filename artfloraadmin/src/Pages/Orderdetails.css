@@ -1,0 +1,20 @@
+.orddiv{
+    /* background-color: rgb(189, 177, 177); */
+    padding-left: 1rem;    
+}
+.ordhead{
+    background-color: rgb(143, 140, 140);
+
+}
+.img{
+    width:5rem;
+}
+.updatestatus{
+    margin-left: 15rem;
+}
+.optionsel{
+    margin-left: 1rem;
+    width:14rem;
+    height:2rem;
+    border-radius: 10px;
+}

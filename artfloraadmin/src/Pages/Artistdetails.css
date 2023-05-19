@@ -1,0 +1,27 @@
+.maindiv{
+    background: rgb(237, 239, 240);
+}
+.artdetailmain{
+   
+    height:95vh;
+    
+}
+
+
+
+.detailimg{
+    width:15vw;
+    height:30vh;
+}
+
+.verify{
+    color: blue;
+    margin-left: 6px;
+    font-size: larger;
+    
+}
+.notverify{
+    color:red;
+    margin-left: 6px;
+    font-size: larger;
+}

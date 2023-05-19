@@ -1,0 +1,17 @@
+.app{
+    font-family: sans-serif;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: linear-gradient(186.37deg,#f3cea1 29.63%,#f7b9bb 51.55%,#e6abe3 90.85%); */
+}
+.appglass{
+    display:grid;
+    height:97%;
+    width:97%;
+    border-radius: 2rem;
+    background-color: rgba(230, 194, 194, 0.54);
+    /* overflow: hidden; */
+   
+}
